@@ -15,14 +15,11 @@
    It Is Very Enjoyable To Browse The Amazing Art And Animations Which Are Also ASCII!
  
  # Usage And Install
-   1. Download
-       To download the script go to the releases page and grab the latest version.
+   1. To download the script go to the releases page and grab the latest version.
    
-   2. Navigate to the folder containing the release
-       Open Your Terminal And cd to the location of the script which you downloaded from releases.
+   2. Open Your Terminal And cd to the location of the script which you downloaded from releases.
    
-   3. Run The Script
-       When you have navigated the folder containing the release you downloaded,
+   3. When you have navigated the folder containing the release you downloaded,
         and type in the terminal:
             ./"File Name"
 
