@@ -5,7 +5,13 @@
     All from your terminal.
     Mostly Eye Candy.
  
- # Usage And Install.
+ # Clarification
+   I Did Not Make These ASCII Characters, All Of The Girls Are From: copypastatext.com, All The Boys Are From: ascii-art.de. 
+   All Of The Art On ascii-art.de Was Made    By The Incredibly Talented Artist: Andreas Freise
+   Please Visit: Andreas Freise's Website
+   It Is Very Enjoyable To Browse The Amazing Art And Animations Which Are Also ASCII!
+ 
+ # Usage And Install
     1. Download
         To download the script go to the releases page and grab the latest version.
     2. Navigate to the folder containing the release
