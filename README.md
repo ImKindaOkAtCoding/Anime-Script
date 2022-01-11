@@ -11,8 +11,9 @@
     2. Navigate to the folder containing the release
             Open Your Terminal And cd to the location of the script which you downloaded from releases.
     3. Run The Script
-            When you have navigated the folder containing the release you downloaded, and type in the terminal:
-            ./"File Name"
+            When you have navigated the folder containing the release you downloaded,
+            and type in the terminal:
+                ./"File Name"
 
 # Version's
   # 2022/1/11 V 1.3
