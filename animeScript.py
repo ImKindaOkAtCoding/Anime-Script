@@ -403,6 +403,37 @@ boy5 = """\
                 `.\\`   `-.....---''               `"--..__`_/
                     """
 
+specialboy = """\
+        
+           
+
+
+                                  |\  __
+           .=-`__               (`  `)  `-.
+          // '^ /               /  o2 _    \
+         '//>   < .           .'  --.  `_ /
+         ///G\ .-'/         ./  .-` `._.'
+         ////.   '        `(/      `
+         ////   ` \--.-.  c'   -    \
+         /'.' '   .'  ` \  `-'   \   \ .-"".
+         .(   -- .     ` .   )    `.  \ .   \
+        '         `   * :|.  '    ( >  )     \
+       '           ` . '(| `/ __.  /  /  .    \
+      /    ` .   *.'`.   \ _(/,_ "' .'  .\    `\
+  .. '     )_ `      .'..-'     `--:    / `.   `\
+  `::   ..'  `._    ..::::.        ) __' _._`.   \
+    ( `   -.    `-.::::::::)    _.'    ""   "`-.  \_
+     `.     `._ _  :::::<''--""'        `  '    `-. `-._
+       `-..._  ' ``.`:::::.              _.        `--..----._
+             `_. .`\  `:::::        _..-'  `._..___  .       .)
+                `.\\`   `::::. ---''               `"--..__`_/
+                          `::::::
+                            `::(.
+                              ::.
+                              .::
+                    """
+
+
 ChoiceBoys = input("You Have 5 Options: 1: Standing: 2: Dancing: 3: Portrait: 4 Man Getting Into Bathtub: 5: Man Laying Down Nude : ")
 if ChoiceBoys == "1":
         print(boy1)
@@ -414,3 +445,10 @@ if ChoiceBoys == "4":
         print(boy4)
 if ChoiceBoys == "5":
         print(boy5)
+special_choice = input("This Build Of animeScript.py has a special feature for no reason would you like to see it? (yes/no)")
+S
+if special_choice == "yes":
+        print("Here's a peice of NSFW ASCII Art")
+        print(specialboy)
+else:
+        print("Alrighty Then, Hoped You Enjoyed It!")
