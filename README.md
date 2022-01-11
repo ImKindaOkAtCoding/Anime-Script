@@ -20,7 +20,7 @@
    2. Open Your Terminal And cd to the location of the script which you downloaded from releases.
    
    3. When you have navigated the folder containing the release you downloaded,
-        and type in the terminal:
+         Type in the terminal:
             ./"File Name"
 
 # Version's
