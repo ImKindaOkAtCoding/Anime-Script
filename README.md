@@ -24,6 +24,10 @@
             ./"File Name"
 
 # Version's
+  # 2022/1/11 V 1.4
+        Added A Special Feature: Will be Taken Away In V 1.5.
+        5 Other Boys Delayed Till V 1.5.
+  
   # 2022/1/11 V 1.3
         Added Options To View 5 Boys With A Few Poses And Actions. (5 More Boys Coming Soon).
   
