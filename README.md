@@ -1,5 +1,5 @@
 # What Is Anime-Script?
-   Anime Script is a terminal app without a GUI, You can view many different anime scenes
+   Anime Script is a terminal app without a GUI, You can view many different anime scenes.
    and characters. 
    All of them with different emotions. 
    All from your terminal.
