@@ -15,9 +15,11 @@
             ./"File Name"
 
 # Version's
-  # 2022/1/11 v 1.3
+  # 2022/1/11 V 1.3
         Added Options To View 5 Boys With A Few Poses And Actions. (5 More Boys Coming Soon).
-  # 2022/1/11 V.1.2
+  # 2022/1/11 V 1.2
         View 5 Boys With A Few Poses And Actions.
-  #  2022/1/11 V.1
+  # 2022/1/11 V 1.1
         View ALL Girls With All Emotions.
+  # 2022/1/11 V 1.0
+        Basic Options No ASCII Characters Just Blank Questions.
