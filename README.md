@@ -7,12 +7,12 @@
  
  # Usage And Install.
     To Install And Use Anime Script Follow These Instructions:
-    # Download
+   # Download
         To download the script go to the releases page and grab the latest version.
-    # Install
-        # Navigate to the folder containing the release
+  # Install
+   # Navigate to the folder containing the release
             Open Your Terminal And cd to the location of the script which you downloaded from releases.
-        # Run The Script
+   # Run The Script
             When you have navigated the folder containing the release you downloaded, and type in the terminal:
             ./"File Name"
 
