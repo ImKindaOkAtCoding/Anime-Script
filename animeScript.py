@@ -231,9 +231,6 @@ if choice == "9":
         print(girl9)
 if choice == "10":
         print(girl10)
-print("You ")
-
-
 
 boy1 = """\
 
@@ -270,8 +267,13 @@ boy1 = """\
                  | /   |  ;\  |  |   `.|
                  |/    ;._\'`-;  (._   \
                  |   ,/`-,(  / `,',_`._/
-                 |/`'(__.'   `-'.:__)
-
+                              /               .'
+                             /              .'
+                            /   ______.   .'
+                           /   / __/_//  '
+                          /   / /  c c
+                         /    \ G    >                    _.-'
+                        /      \/. 
                     """
 boy2 = """\
 
@@ -397,6 +399,18 @@ boy5 = """\
     ( `   -.    `-.   `   . `"'        "'   "`-.  \_
      `.     `._ _  `.  '                `  '    `-. `-._
        `-..._  ' ``. `.                  _.        `--..----._
-             `_. .``. `.            _..-'  `._..___  .       .)
+          `_. .``. `.            _..-'  `._..___  .       .)
                 `.\\`   `-.....---''               `"--..__`_/
                     """
+
+ChoiceBoys = input("You Have 5 Options: 1: Standing: 2: Dancing: 3: Portrait: 4 Man Getting Into Bathtub: 5: Man Laying Down Nude : ")
+if ChoiceBoys == "1":
+        print(boy1)
+if ChoiceBoys == "2":
+        print(boy2)
+if ChoiceBoys == "3":
+        print(boy3)
+if ChoiceBoys == "4":
+        print(boy4)
+if ChoiceBoys == "5":
+        print(boy5)
