@@ -5,9 +5,12 @@
    All from your terminal.
    Mostly Eye Candy.
  
+ # Preview The Art
+   To Preview The ASCII Characters Just View The Code In animeScript.py And You Can Easily View All The Art In The Code.
+ 
  # Clarification
    I Did Not Make These ASCII Characters, All Of The Girls Are From: copypastatext.com, All The Boys Are From: ascii-art.de. 
-   All Of The Art On ascii-art.de Was Made    By The Incredibly Talented Artist: Andreas Freise
+   All Of The Art On ascii-art.de Was Made By The Incredibly Talented Artist: Andreas Freise
    Please Visit: Andreas Freise's Website
    It Is Very Enjoyable To Browse The Amazing Art And Animations Which Are Also ASCII!
  
