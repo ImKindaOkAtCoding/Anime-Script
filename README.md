@@ -17,9 +17,11 @@
  # Usage And Install
    1. To download the script go to the releases page and grab the latest version.
    
-   2. Open Your Terminal And cd to the location of the script which you downloaded from releases.
+   2. Extract the tar.gz
    
-   3. When you have navigated to the folder containing the release you downloaded,
+   3. Open your terminal and go to the folder containing the extracted script.
+   
+   3. When you have navigated to the folder containing the extracted script:
          # Type In The Terminal:
             ./"File Name"
 
