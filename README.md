@@ -17,7 +17,7 @@
  # Usage And Install
    1. To download the script go to the releases page and grab the latest version.
    
-   2. Extract the tar.gz
+   2. Extract the tar.gz.
    
    3. Open your terminal and go to the folder containing the extracted script.
    
