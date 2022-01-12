@@ -446,7 +446,7 @@ if ChoiceBoys == "4":
 if ChoiceBoys == "5":
         print(boy5)
 special_choice = input("This Build Of animeScript.py has a special feature for no reason would you like to see it? (yes/no)")
-S
+
 if special_choice == "yes":
         print("Here's a peice of NSFW ASCII Art")
         print(specialboy)
